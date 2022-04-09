@@ -36,15 +36,15 @@ Technology Stack used was **MERN**( MongoDB ExpessJS ReactJS Node.js)
   **Step 4: Completing the Frontend using Reactjs**
   - Scaffolded a react app in my Todo directory using this command `npx create-react-app client`
   - Added some files and css code for my UI.
-  - Ran the  `npm run dev` once i was through and the following UI was displayed on my browser.
+  - Ran the  `npm run dev` once I was through and the following UI was displayed on my browser.
      ![alt text](https://github.com/Ellawangari/DevOps-Project003/blob/main/Images/npm14.PNG)
-  - Also had to confirm that the tasks i added on my Todo application via the UI was succesfully added to the database and it did.
+  - Also had to confirm that the tasks I added on my Todo application via the UI were succesfully added to the database.
     ![alt text](https://github.com/Ellawangari/DevOps-Project003/blob/main/Images/mongo.PNG)
-  - Also tested the same using Postman and i was able to retrieve the tasks i previously added.
+  - Also tested the same using Postman and I was able to retrieve the tasks i previously added.
      ![alt text](https://github.com/Ellawangari/DevOps-Project003/blob/main/Images/npm15.PNG)
      
      
-     ** This Project was truly an awesome experience as i got to learn new technologies.**
+     ** This Project was truly an awesome experience as I got to learn new technologies.**
  
 
 **End of DevOps Project 3**
